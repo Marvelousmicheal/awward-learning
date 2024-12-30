@@ -1,4 +1,4 @@
-
+import React from 'react'
 
 function Button({title, id, rightIcon, leftIcon, containerclass}) {
   return (
